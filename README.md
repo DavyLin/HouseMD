@@ -107,3 +107,5 @@ You can also input `help loaded` and get help infomation of `loaded` as blow:
 [Click here](https://github.com/zhongl/housemd/wiki/usecases) to see the use cases.
 
 Having fun!
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/ade3e2630db4f96a66b791910c7ea108 "githalytics.com")](http://githalytics.com/zhongl/housemd)
